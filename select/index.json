@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "超限界バスター",
+  "base_artist": "¿?shimon",
+  "createdAt": "2026-02-12T10:14:25.228480Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "超限界バスター",
+      "artist": "¿?shimon",
+      "has_synced": false,
+      "path": "select/pl_01_超限界バスター_¿_shimon.txt"
+    }
+  ]
+}
